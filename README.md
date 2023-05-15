@@ -56,8 +56,4 @@ Here are some ideas to get you started:
   <img src="https://github.com/devicons/devicon/blob/master/icons/socketio/socketio-original-wordmark.svg" title="Socket i/o" **alt="Socket i/o" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/tailwindcss/tailwindcss-plain.svg" title="Tailwind" **alt="Tailwind" width="40" height="40"/>
 </div>
----
-### :fire: My Stats :
-<div>
-  [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=rifatcse09&theme=dark)](https://git.io/streak-stats)
-</div>
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=rifatcse09&theme=dark)](https://git.io/streak-stats)
