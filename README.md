@@ -26,15 +26,6 @@ Here are some ideas to get you started:
  </a> <a href="https://medium.com/@rifatcse09" target="_blank"><img alt="Medium" src="https://img.shields.io/badge/medium-%2312100E.svg?&style=for-the-badge&logo=medium&logoColor=white" /></a>
 </p>
 
-<div id="badges">
-  <a href="https://www.linkedin.com/in/rifatcse09/">
-    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
-  </a>
-  <a href="https://www.facebook.com/rifatmohammadi/">
-    <img src="https://img.shields.io/badge/facebook-facebbok-blue" alt="Facebook Badge"/>
-  </a>
-</div>
-<img src="https://komarev.com/ghpvc/?username=your-github-username&style=flat-square&color=blue" alt=""/>
 
 ### :hammer_and_wrench: Languages and Tools :
 <div>
