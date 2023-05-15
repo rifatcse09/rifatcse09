@@ -52,9 +52,8 @@ Here are some ideas to get you started:
   <img src="https://github.com/devicons/devicon/blob/master/icons/sequelize/sequelize-original-wordmark.svg" title="Sequelize" **alt="sequelize" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/socketio/socketio-original-wordmark.svg" title="Socket i/o" **alt="Socket i/o" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/tailwindcss/tailwindcss-plain.svg" title="Tailwind" **alt="Tailwind" width="40" height="40"/>
-  <img alt="Docker" src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-original-wordmark.svg" height="40"/>&nbsp;
-  <img alt="github actions" src="https://img.shields.io/badge/-Github_Actions-2088FF?style=flat-square&logo=github-actions&logoColor=white" height="30"/>&nbsp;
-  <img alt="TypeScript" src="https://img.shields.io/badge/-TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white" height="30" />
+  <img alt="Docker" title="Docker" src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-original-wordmark.svg" height="40"/>&nbsp;
+  <img alt="TypeScript" title="TypeScript" src="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-original.svg" height="30" />
 </div>
 
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=rifatcse09&theme=dark)](https://git.io/streak-stats)
