@@ -16,5 +16,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 <div id="header" align="center">
-  <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
+  <img src="https://giphy.com/stickers/rbeiindia-transparent-igRW3jH2LcCVzMqi5F" width="100"/>
+  <iframe src="https://giphy.com/embed/igRW3jH2LcCVzMqi5F" width="480" height="480" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/stickers/rbeiindia-transparent-igRW3jH2LcCVzMqi5F">via GIPHY</a></p>
 </div>
