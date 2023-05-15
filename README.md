@@ -57,3 +57,4 @@ Here are some ideas to get you started:
   <img src="https://github.com/devicons/devicon/blob/master/icons/tailwindcss/tailwindcss-plain.svg" title="Tailwind" **alt="Tailwind" width="40" height="40"/>
 </div>
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=rifatcse09&theme=dark)](https://git.io/streak-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rifatcse09)](https://github.com/anuraghazra/github-readme-stats)
