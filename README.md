@@ -61,6 +61,8 @@ Here are some ideas to get you started:
   <li><a href="https://github.com/rifatcse09/request_validator"><b>Create a request validator like Laravel</i></li>
   <li><a href="https://github.com/rifatcse09/lead_management"><b>Lead management with Laravel 9 as api , vue3, vite, mysql. Creating differents rules user with forget password, users activation, contact data record and state change</i></li>
   <li><a href="https://github.com/rifatcse09/laravel_vue_vite_docker_boilerplate"><b> Create a Laravel Vue Boilerplate with Docker</b></a></li>
+  <li><a href="https://github.com/rifatcse09/webapp_test-main"><b> Samle project with Node and Vue</b></a></li>
+   <li><a href="https://github.com/rifatcse09/school_plan"><b>Institute students plan with Laravel 8 and vue2</b></a></li>
 </ul>
 
 ### :fire: My Stats :
