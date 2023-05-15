@@ -59,11 +59,8 @@ Here are some ideas to get you started:
 <h3>My latest posts</h3>
 <ul>
   <li><a href="https://github.com/rifatcse09/request_validator"><b>Create a request validator like Laravel</i></li>
-  <li><a href="https://github.com/rifatcse09/lead_management"><b>Lead management with Laravel 9 as api , vue3, vite, mysql. Creating differents rules user with forget password, user activation, contact data record and state change</i></li>
-    <li><a href="https://medium.com/better-programming/how-you-should-structure-your-react-applications-e7dd32375a98"><b><img src="https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/240/apple/237/fire_1f525.png" width="20" alt="new" /> How You Should Structure Your React Applications</b></a><br/><i>A matter of taste, sure, but here is an approach that scales.</i></li>
-  <li><a href="https://medium.com/better-programming/pro-tips-to-help-you-get-started-with-your-side-project-15d01b76e0d8"><b>Pro Tips to Help You Get Started With Your Side Project</b></a><br/><i>Begin with solid foundations to keep the excitement kicking in...</i></li>
-  <li><a href="https://medium.com/better-programming/how-to-take-care-of-your-personal-branding-as-a-programmer-2d3aeba56cb9"><b>How to Take Care of Your Personal Branding as a Programmer</b></a><br/><i>It’s more than just refreshing your resume</i></li>
-  <li><a href="https://medium.com/better-programming/8-new-features-shipping-with-es2020-7a2721f710fb"><b>7 New Features Shipping With ES2020</b></a><br/><i>GlobalThis, optional chaining, private fields in classes, the nullish coalescing operator, and more</i></li>
+  <li><a href="https://github.com/rifatcse09/lead_management"><b>Lead management with Laravel 9 as api , vue3, vite, mysql. Creating differents rules user with forget password, users activation, contact data record and state change</i></li>
+  <li><a href="https://github.com/rifatcse09/laravel_vue_vite_docker_boilerplate"><b> Create a Laravel Vue Boilerplate with Docker</b></a></li>
 </ul>
 
 ### :fire: My Stats :
