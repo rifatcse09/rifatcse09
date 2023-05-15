@@ -20,6 +20,12 @@ Here are some ideas to get you started:
   <img src="https://media.giphy.com/media/igRW3jH2LcCVzMqi5F/giphy.gif" width="200"/>
 </div>
 
+<h3>Where to find me</h3>
+<p><a href="https://github.com/rifatcse09" target="_blank"><img alt="Github" src="https://img.shields.io/badge/GitHub-%2312100E.svg?&style=for-the-badge&logo=Github&logoColor=white" /></a> 
+ <a href="https://www.linkedin.com/in/rifatcse09/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
+ </a> <a href="https://medium.com/@rifatcse09" target="_blank"><img alt="Medium" src="https://img.shields.io/badge/medium-%2312100E.svg?&style=for-the-badge&logo=medium&logoColor=white" /></a>
+</p>
+
 <div id="badges">
   <a href="https://www.linkedin.com/in/rifatcse09/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
