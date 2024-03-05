@@ -59,10 +59,14 @@ Here are some ideas to get you started:
 <h3>My latest posts</h3>
 <ul>
   <li><a href="https://github.com/rifatcse09/request_validator"><b>Create a request validator like Laravel</i></li>
-  <li><a href="https://github.com/rifatcse09/lead_management"><b>Lead management with Laravel 9 as api , vue3, vite, mysql. Creating differents rules user with forget password, users activation, contact data record and state change</i></li>
-  <li><a href="https://github.com/rifatcse09/laravel_vue_vite_docker_boilerplate"><b> Create a Laravel Vue Boilerplate with Docker</b></a></li>
-  <li><a href="https://github.com/rifatcse09/webapp_test-main"><b> Samle project with Node and Vue</b></a></li>
-   <li><a href="https://github.com/rifatcse09/school_plan"><b>Institute students plan with Laravel 8 and vue2</b></a></li>
+  <li><a href="https://github.com/rifatcse09/pet_project"><b>Laravel simple API for experiment</i></li>
+  <li><a href="https://github.com/rifatcse09/planning"><b>Institute students plan with Laravel 8 and vue2</b></a></li>
+  <li><a href="https://github.com/rifatcse09/api_boilerplate"><b>Laravel API Boilerplate</b></a></li>
+  <li><a href="https://github.com/rifatcse09/webapp_test-main"><b> Sample project with Node and Vue</b></a></li>
+  <li><a href="https://github.com/rifatcse09/lead_management"><b>Lead management with Laravel 9 as api , vue3, vite, mysql. Creating different rules for users who forget passwords, user activation, contact data record, and state change</i></li>
+  <li><a href="https://github.com/rifatcse09/laravel_with_docker"><b>Create Laravel with docker</b></a></li>
+ 
+
 </ul>
 
 ### :fire: My Stats :
