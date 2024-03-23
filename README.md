@@ -1,7 +1,5 @@
 ### Hi 👋 My name is Rifat
-Sr. Fullstack Developer with Laravel, Vue, Node, DevOps, Cloud management
-
-🔭 I’m currently working in Dhaka, Bangladesh
+As a polyglot developer, I excel in backend development, specializing in PHP and Laravel, with proficiency in Node.js and JavaScript for frontend work. With diverse project experience across various domains, I possess a keen interest in exploring trendy technologies. I'm particularly adept at system design, leveraging my skills to architect scalable solutions. Always eager to learn and adapt, I bring a dynamic approach to software development, ensuring efficient and innovative results.
 
 
 <!--**rifatcse09/rifatcse09** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile. -->
