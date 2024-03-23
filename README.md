@@ -51,7 +51,7 @@ Here are some ideas to get you started:
   - **Version Control:** `Git` • `GitHub` • `BitBucket`
   - **CI/CD:** `Github Actions`
   - **Project Management:** `Jira` • `Asana` • `Tiga` 
-  - **Cloud:** `(EC2, S3, RDS, SES)` 
+  - **Cloud:** `AWS (EC2, S3, RDS, SES)` 
 
 <!--<h3>My latest posts</h3>
 <ul>
