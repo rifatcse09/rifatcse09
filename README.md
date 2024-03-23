@@ -56,7 +56,7 @@ Here are some ideas to get you started:
   <img alt="TypeScript" title="TypeScript" src="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-original.svg" height="30" />
 </div>
 
-<h3>My latest posts</h3>
+<!--<h3>My latest posts</h3>
 <ul>
   <li><a href="https://github.com/rifatcse09/request_validator"><b>Create a request validator like Laravel</i></li>
   <li><a href="https://github.com/rifatcse09/pet_project"><b>Laravel simple API for experiment</i></li>
@@ -67,10 +67,12 @@ Here are some ideas to get you started:
   <li><a href="https://github.com/rifatcse09/laravel_with_docker"><b>Create Laravel with docker</b></a></li>
  
 
-</ul>
+</ul>-->
+
 
 ### :fire: My Stats :
 
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=rifatcse09&theme=dark)](https://git.io/streak-stats)
+<a href="http://www.github.com/rifatcse09"><img src="https://github-readme-stats.vercel.app/api?username=rifatcse09&show_icons=true&hide=&count_private=true&title_color=3382ed&text_color=ffffff&icon_color=3382ed&bg_color=1c1917&hide_border=true&show_icons=true" alt="rifatcse09's GitHub stats" /></a>
+<a href="http://www.github.com/rifatcse09"><img src="https://github-readme-streak-stats.herokuapp.com/?user=rifatcse09&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rifatcse09)](https://github.com/rifatcse09/github-readme-stats)
+<!--[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rifatcse09)](https://github.com/rifatcse09/github-readme-stats)-->
