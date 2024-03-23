@@ -16,6 +16,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=rifatce09&show_icons=true&theme=vision-friendly-dark)
 <div id="header" align="center">
   <img src="https://media.giphy.com/media/igRW3jH2LcCVzMqi5F/giphy.gif" width="200"/>
 </div>
