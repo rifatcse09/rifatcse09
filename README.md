@@ -4,7 +4,7 @@ Sr. Fullstack Developer with Laravel, Vue, Node, DevOps, Cloud management
 🔭 I’m currently working in Dhaka, Bangladesh
 
 
-**rifatcse09/rifatcse09** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<!--**rifatcse09/rifatcse09** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile. -->
 
 Here are some ideas to get you started:
 
