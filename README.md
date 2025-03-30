@@ -6,9 +6,9 @@ As a polyglot developer, I excel in backend development, specializing in PHP and
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on Multivendor eCommerce with PHP 8.2, Laravel 10, Docker, VUE 2, and PostgreSQL. Upgrading Laravel 5.7 legacy code to Laravel 10 and adding new features. 
+- 🔭 I’m working on Multivendor e-commerce with PHP 8.2, Laravel 10, Docker, VUE 2, and PostgreSQL and upgrading Laravel 5.7 legacy code to Laravel 10 and adding new features. 
 - 🌱 I’m currently learning Laravel 11, PHP core, 
-- 👯 I’m looking to collaborate on Laravel open-source contribution
+- 👯 I’m looking to collaborate on open-source contributions to Laravel
 <!-- - 🤔 I’m looking for help with ...-->
 - 💬 Ask me about the design pattern
 - 📫 How to reach me: http://mdrifatul.info
@@ -38,7 +38,7 @@ Here are some ideas to get you started:
   - **System Architecture:** `Monolithic` • `Microservices`
   - **Protocol:** `REST` • `Web Socket`
   - **Design Pattern:** `Adapter` • `Singleton` • `Strategy`  • `Observer`  • `Factory`
-  - **Design Principle:** `SOID` • `DRY`
+  - **Design Principle:** `SOLID` • `DRY`
 
 - 👨🏻‍💻 **Frontend:**
 
