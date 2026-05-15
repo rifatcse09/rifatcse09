@@ -1,5 +1,5 @@
 ### Hi 👋 My name is Rifat
-ackend-focused software engineer specializing in scalable SaaS platforms, APIs, workflow automation, and integration-heavy systems using Laravel, Node.js, TypeScript, PostgreSQL, and Redis.
+Backend-focused software engineer specializing in scalable SaaS platforms, APIs, workflow automation, and integration-heavy systems using Laravel, Node.js, TypeScript, PostgreSQL, and Redis.
 
 Experienced in building and maintaining production applications involving fintech workflows, webhook orchestration, authentication systems, queue processing, and backend architecture. Comfortable working with both modern systems and legacy codebases, focusing on reliability, maintainability, and pragmatic engineering.
 
