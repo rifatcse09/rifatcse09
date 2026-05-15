@@ -1,14 +1,14 @@
 ### Hi 👋 My name is Rifat
-As a polyglot developer, I excel in backend development, specializing in PHP and Laravel, with proficiency in Node.js and JavaScript for frontend work. With diverse project experience across various domains, I possess a keen interest in exploring trendy technologies. I'm particularly adept at system design, leveraging my skills to architect scalable solutions. Always eager to learn and adapt, I bring a dynamic approach to software development, ensuring efficient and innovative results.
+ackend-focused software engineer specializing in scalable SaaS platforms, APIs, workflow automation, and integration-heavy systems using Laravel, Node.js, TypeScript, PostgreSQL, and Redis.
+
+Experienced in building and maintaining production applications involving fintech workflows, webhook orchestration, authentication systems, queue processing, and backend architecture. Comfortable working with both modern systems and legacy codebases, focusing on reliability, maintainability, and pragmatic engineering.
+
+Currently working on fintech and automation platforms using Node.js, Express/NestJS, Next.js, Docker, PostgreSQL, Redis, and cloud deployments.
 
 
 <!--**rifatcse09/rifatcse09** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile. -->
 
 Here are some ideas to get you started:
-
-- 🔭 I’m working on Multivendor e-commerce with PHP 8.2, Laravel 10, Docker, VUE 2, and PostgreSQL and upgrading Laravel 5.7 legacy code to Laravel 10 and adding new features. 
-- 🌱 I’m currently learning Laravel 11, PHP core, 
-- 👯 I’m looking to collaborate on open-source contributions to Laravel
 <!-- - 🤔 I’m looking for help with ...-->
 - 💬 Ask me about the design pattern
 - 📫 How to reach me: http://mdrifatul.info
